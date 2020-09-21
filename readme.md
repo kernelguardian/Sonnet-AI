@@ -17,6 +17,8 @@ pip install -r requirements.txt
  installations may fail depending on the system and availability of GPU. 
  In that case delete the Pytorch entry from requirements file and follow 
  the below steps
+ a. Visit https://pytorch.org/
+ b. Select your configurations from the options and run the generated command on your commandline
 
 2. In your terminal cd to this github project downloaded (eg cd Downloads\Sonnet-Ai) and run 
  ```bash
