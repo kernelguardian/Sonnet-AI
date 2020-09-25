@@ -1,6 +1,7 @@
 # Team Binet - SONNET AI
 
 Sonnet AI is a character level RNN that can generate meaningful and sonnets based on Shakespeare's Sonnet
+## Added web interface [Sonnet.AI](http://52.66.29.152:8000/)
 
 ## Requirements
 1. Python 64bit 
